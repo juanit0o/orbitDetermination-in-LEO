@@ -36,7 +36,7 @@ physical domain knowledge and improving upon the standard approach.
 Debris, Orbital Mechanics, Orbit determination
 
 <p align="center">
-       <img src="https://i.imgur.com/6b5FZvY.png" width="1000" height="400" alt="Layout of the website">
+       <img src="https://i.imgur.com/6b5FZvY.png" width="1200" height="400" alt="Layout of the website">
         <br>
         <em>Architecture of the PINNs</em>
 </p>
