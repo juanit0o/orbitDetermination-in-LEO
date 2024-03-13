@@ -1,5 +1,6 @@
 # Physics-Inspired Machine Learning For Orbit Determination in Low-Earth-Orbit
-This repository includes the code developed, the dissertation document and a paper concerning the first part of the dissertation (SINDy) presented in the [International Astronautical Congress 2023 @ Baku](https://dl.iafastro.directory/event/IAC-2023/paper/76700/) alongside its [interactive presentation](https://iac2023-iaf.ipostersessions.com/default.aspx?s=2C-89-37-69-FB-A5-38-0C-95-37-6A-05-85-A4-90-1D&guestview=true)
+This research aims to utilize physically informed machine learning techniques to improve **orbit determination** and **model atmospheric density**, considering the physical laws that govern the system.
+This repository includes the **code** developed, the **dissertation document** and a **paper** ([arXiv](https://arxiv.org/abs/2311.10012)) concerning the first part of the dissertation (SINDy) presented in the [International Astronautical Congress 2023 @ Baku](https://dl.iafastro.directory/event/IAC-2023/paper/76700/) alongside its [interactive presentation](https://iac2023-iaf.ipostersessions.com/default.aspx?s=2C-89-37-69-FB-A5-38-0C-95-37-6A-05-85-A4-90-1D&guestview=true). This paper was also presented in [Lisbon Young Mathematicians Conference](https://sites.uab.pt/lymc2023/).
 
 # Abstract
 We have always been told since we were little that space is infinite. Having this in mind,
@@ -33,5 +34,11 @@ physical domain knowledge and improving upon the standard approach.
 
 **Keywords:** Physically-Informed Neural Networks, Data-driven physical discovery, Space
 Debris, Orbital Mechanics, Orbit determination
+
+<p align="center">
+       <img src="https://i.imgur.com/6b5FZvY.png" width="1000" height="400" alt="Layout of the website">
+        <br>
+        <em>Architecture of the PINNs</em>
+</p>
 
 This project was done in the context of my dissertation in partnership with [FCT-NOVA](https://www.fct.unl.pt/) & [Neuraspace](https://www.neuraspace.com/).
